@@ -1,3 +1,3 @@
 # Ejercicio 1
-x = "Hello World"
+x = "Hola mundo!"
 print(x) 
