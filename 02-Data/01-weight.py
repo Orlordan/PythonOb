@@ -1,0 +1,5 @@
+peso = int(input("Ingrese su peso: "))
+altura =float(input("Ingrese su altura: "))
+masaCor = round((peso / altura), 2)
+#print(masaCor)
+print(f"El índice de masa corporal es: {masaCor} Kg")
