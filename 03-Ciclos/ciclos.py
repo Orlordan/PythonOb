@@ -1,8 +1,7 @@
 cont = 100
 while cont >= 1:
   print("contador con while: ", cont)
-  cont -= 1
-  
+  cont -= 1  
 a = 5 
 b = 5
 c = 6 
